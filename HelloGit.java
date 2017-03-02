@@ -1,5 +1,5 @@
 /**
- * Created by Wikusia on 02.03.2017.
+ * Created by Wiktoria on 02.03.2017.
  */
 public class HelloGit
 {
